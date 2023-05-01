@@ -1,0 +1,18 @@
+export default  {
+    DEFAULT_BLACK: '#0E122B',
+    DEFAULT_GREEN: '#0A8791',
+    DEFAULT_YELLOW: '#FBA83C',
+    DEFAULT_GREY: '#C2C2CB',
+    DEFAULT_WHITE: '#FFFFFF',
+    DEFAULT_RED: '#F53920',
+    INACTIVE_GREY: '#A3A3A3',
+    BACKGROUND_COLOR:"#254c8d",
+    LIGHT_YELLOW:"#4040440",
+    NIGHT_RIDER:"#303030",
+    Matterhorn:"#505050",
+    CYAN:"#00FFFF",
+    GREY:"#C5C5C5",
+    RED:"#ff0000",
+    GREEN:"#008000",
+    BLUEBERRY:"#5D5FEF"
+  };
