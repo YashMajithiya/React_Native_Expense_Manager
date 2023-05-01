@@ -3,7 +3,7 @@ I have created here Expense Manager Application  in which user has to first add 
 
 For React native you can refer: https://reactnative.dev/
 For starting this Application:
-Enter Commands: 1. npx react-native start  2. npx react-native run-android --port=1234
+Enter Commands: 1.Npm install 2.npx react-native start  3.npx react-native run-android --port=1234
 
 For Generating Apk you can refer: https://reactnative.dev/docs/signed-apk-android
 Enter commands: 
