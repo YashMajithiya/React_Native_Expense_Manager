@@ -9,10 +9,10 @@ I have created here Expense Manager Application  in which user has to first add 
 1. npm install 
 2. npx react-native start  
 3. npx react-native run-android --port=1234
-4. For Generating Apk you can refer: https://reactnative.dev/docs/signed-apk-android
-- Enter commands: 
-1. cd android
-2. ./gradlew bundleRelease
+- Enter commands:
+1. For Generating Apk you can refer: https://reactnative.dev/docs/signed-apk-android
+2. cd android
+3. ./gradlew bundleRelease
 
 ## Usage
 1. Run the application
