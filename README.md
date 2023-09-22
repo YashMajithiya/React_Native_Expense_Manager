@@ -1,22 +1,35 @@
+# Expense Manager
+
+## Overview
 Hello All,
 I have created here Expense Manager Application  in which user has to first add the Item and the he can add the cost of the expense that much user has done.
 
-For React native you can refer: https://reactnative.dev/
-For starting this Application:
-Enter Commands: 1.Npm install 2.npx react-native start  3.npx react-native run-android --port=1234
-
+## Installation
+Enter Commands: 
+1. npm install 
+2. npx react-native start  
+3. npx react-native run-android --port=1234
 For Generating Apk you can refer: https://reactnative.dev/docs/signed-apk-android
 Enter commands: 
 cd android
 ./gradlew bundleRelease
 
+## Usage
+1. Run the application
+2. Add the item and set the expense for that item
+3. Add the picture if you want to add
+4. In the month whatever amount you spended on that item add the amount in th application
+
+## References
 For the icons I have used here: https://fontawesome.com/v5/docs/web/use-with/react-native
 For storing and managing data I have used here Firebase: https://rnfirebase.io/
 For the Designing I have used here: https://www.react-native-material.com/
 For the Navigation I have used : https://reactnavigation.org/
 For uploading Image I have refer: npmjs.com/package/react-native-image-crop-picker
 For Animation I have refer: https://www.npmjs.com/package/react-native-gesture-handler
+For React native you can refer: https://reactnative.dev/
 
+## Dependencies
 And some more Dependencies are: 
     "@fortawesome/react-native-fontawesome": "^0.3.0",
     "@react-native-firebase/app": "^17.3.0",
