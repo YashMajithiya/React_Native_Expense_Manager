@@ -5,12 +5,12 @@ Hello All,
 I have created here Expense Manager Application  in which user has to first add the Item and the he can add the cost of the expense that much user has done.
 
 ## Installation
-Enter Commands: 
+- Enter Commands: 
 1. npm install 
 2. npx react-native start  
 3. npx react-native run-android --port=1234
 4. For Generating Apk you can refer: https://reactnative.dev/docs/signed-apk-android
-Enter commands: 
+- Enter commands: 
 1. cd android
 2. ./gradlew bundleRelease
 
