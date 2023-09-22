@@ -2,7 +2,7 @@
 
 ## Overview
 Hello All,
-I have created here Expense Manager Application  in which user has to first add the Item and the he can add the cost of the expense that much user has done.
+I have created here Expense Manager Application in which user has to first add the Item and the he can add the cost of the expense that much user has done throughout the month and at the end of the month he will get the total expenditure of the whole month.
 
 ## Installation
 - Enter Commands: 
